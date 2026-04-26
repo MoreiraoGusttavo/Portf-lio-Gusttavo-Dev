@@ -139,7 +139,7 @@ Busco uma oportunidade na área de Desenvolvimento de Software. Tenho facilidade
           <h3>Projeto Portfólio</h3>
           <p>Projeto que fala sobre mim, mostra meus projetos e habilidades. Utilizando principalmente React.js, Vite, CSS, PHP e Gemini Code (em evolução).</p>
           <div className="project-social">
-            <a href="https://github.com/MoreiraoGusttavo" target="_blank" rel="noopener noreferrer" title="GitHub">
+            <a href="https://github.com/MoreiraoGusttavo/Portf-lio-Gusttavo-Dev" target="_blank" rel="noopener noreferrer" title="GitHub">
               <svg className="project-icon">
                 <use href="icons.svg#github-icon"></use>
               </svg>
