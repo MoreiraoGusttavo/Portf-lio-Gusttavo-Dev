@@ -47,7 +47,7 @@ function App() {
         </div>
         <h2>Sobre mim</h2>
         <p>
-          Meu nome é Gusttavo, tenho 22 anos, faço faculdade de Ciência da Computação pela UNIP e estou no último ano.
+          Meu nome é Gusttavo, tenho 22 anos, moro em São Paulo, faço faculdade de Ciência da Computação pela UNIP SP e estou no último ano.
            Sou um desenvolvedor júnior em formação que almejo a área full stack e em constante evolução com 9 meses de experiência em Suporte Técnico de TI na 2wl solution. Sou apaixonado por criar soluções inovadoras e eficientes. Com diversos cursos e experiências de projetos pessoais em diversas tecnologias, estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos impactantes.
            Procuro atuar como Desenvolvedor Front-end ou Back-end seja como estágio/trainee ou como júnior.
 Busco uma oportunidade na área de Desenvolvimento de Software. Tenho facilidade de aprendizado, perfil colaborativo e estou comprometido em contribuir com soluções eficientes e de qualidade.
